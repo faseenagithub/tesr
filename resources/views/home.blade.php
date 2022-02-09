@@ -26,7 +26,7 @@
 </div>
 
 <footer class="container-fluid text-center">
-  <p>copyright@2022</p>
+  <p>copyright@Favas 2022</p>
 </footer>
 
 </body>
